@@ -17,6 +17,10 @@
         window.backdrop = 1.0;
       };
     };
+    oil = {
+      enable = true;
+      autoLoad = true;
+    };
   };
   autoCmd = [{
     event = "FileType";
